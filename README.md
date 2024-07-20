@@ -54,7 +54,9 @@ Selecting download will download a zip file with a "followers_1.json" file and a
 
 ### Step 3: Running the script
 
-Clone this repository to your device and add your "followers_1.json" and "following.json" files to the same directory and add their paths in commentted out area
+Clone this repository to your device and add your "followers_1.json" and "following.json" files to the same directory. 
+
+Run the `parser.py` script which will produce a `whos_not_following_me_back_list.txt` file which contains a list of the usernames that you follow on instagram that don't follow me back. 
 
 
 
