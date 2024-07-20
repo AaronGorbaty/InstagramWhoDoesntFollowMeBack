@@ -20,8 +20,10 @@ Select "Your activity" and *(on mobile scroll down)* select "Download your infor
 
 ![image](https://github.com/user-attachments/assets/ac553bfa-9179-471b-8750-61f6f1eddd58)
 
+
 ![image](https://github.com/user-attachments/assets/09e91702-fc60-4af9-8475-f35248cfce63)
 
+Recommend downloading your data to your device but feel free to choose another location:
 ![image](https://github.com/user-attachments/assets/3c04c7df-a069-4441-973c-0c96057ac7d2)
 
 Ensure that the time range is set on "All time":
