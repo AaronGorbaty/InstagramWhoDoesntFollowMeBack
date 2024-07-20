@@ -16,7 +16,7 @@ Select "Your activity" and *(on mobile scroll down)* select "Download your infor
 
 <img src="https://github.com/user-attachments/assets/53e761bb-8d84-4c5b-8db9-3d27d1def8de" alt="Mobile view" width="200">
 
-Select download 
+Select "Download or transfer information": 
 ![image](https://github.com/user-attachments/assets/35193164-09ca-4ca1-94d8-15b416d8612f)
 
 You don't need all of your account data only some, so select "Some
