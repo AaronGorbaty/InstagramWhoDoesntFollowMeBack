@@ -10,7 +10,7 @@ A simple tool that produces a `.txt` file containing a list of instagram usernam
 Navigate to your instagram profile and click on the 3 lines:
 
 On Desktop:
-![image](https://github.com/user-attachments/assets/02d83dd0-e4ff-4bb3-afed-ab36099e5f15)
+<img src="https://github.com/user-attachments/assets/02d83dd0-e4ff-4bb3-afed-ab36099e5f15" alt="Desktop view" width="500">
 
 Select "Your activity" and (on mobile scroll down) select "Download your information":
 
