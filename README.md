@@ -5,7 +5,7 @@ A simple tool that produces a `.txt` file containing a list of instagram usernam
 
 ## Tutorial
 
-### Step 1: Download your data
+### Step 1: Configuring your data
 
 Navigate to your instagram profile and click on the 3 lines that say "more":
 
@@ -45,4 +45,19 @@ Finally click on "Create files":
 <img src="https://github.com/user-attachments/assets/b1213fb4-499d-4ce7-b436-934f1267e727" alt="Create files" width="300">
 
 
-### Step 2:
+### Step 2: Downloading your data
+
+After some time your instagram data will be available for download:
+![image](https://github.com/user-attachments/assets/8ab782db-7b39-43f3-a9eb-85746a458b39)
+
+Selecting download will download a zip file with a "followers_1.json" file and a "following.json" file.
+
+### Step 3: Running the script
+
+Clone this repository to your device and add your "followers_1.json" and "following.json" files to the same directory and add their paths in commentted out area
+
+
+
+
+
+
